@@ -33,7 +33,8 @@ I am a B.tech student. I am a guy who is fascinated toward programming especiall
 </div>
 
 **Follow Me On:**
-
+  
+  <a href="https://twitter.com/_starboy2102">
   <img align="left" alt="Shivam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shivam-shrivastava-1ab2841a3/">
