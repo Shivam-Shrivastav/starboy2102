@@ -3,6 +3,8 @@
 <!--
 **starboy2102/starboy2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
 I am a B.tech student. I am a guy who is fascinated toward programming especially towards AI and ML. I like to explore physics and mathematics.
 
 
