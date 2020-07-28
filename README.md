@@ -14,19 +14,6 @@ I am a B.tech student. I am a guy who is fascinated toward programming especiall
 - 📫 How to reach me:  [My LinkedIn Profile](https://www.linkedin.com/in/shivam-shrivastava-1ab2841a3/)
 
 
-  <img align="left" alt="Shivam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/shivam-shrivastava-1ab2841a3/">
-  <img align="left" alt="Shivam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/starboy2102">
-  <img align="left" alt="Shivam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/_starboy2102/">
-  <img align="left" alt="Shivam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-
 
 **Languages and Tools:**  
 
