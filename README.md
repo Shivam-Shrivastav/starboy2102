@@ -24,9 +24,11 @@ I am a B.tech student. I am a guy who is fascinated toward programming especiall
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
 <div align="centre">
-
+<!-- 
 <a href="https://github.com/starboy2102">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starboy2102&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starboy2102&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456" /> -->
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starboy2102&layout=compact)](https://github.com/starboy2102/github-readme-stats)
   
 
 </a> <img src="https://github-readme-stats.vercel.app/api?username=starboy2102&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=123456">
