@@ -1,11 +1,10 @@
-### Hi there, This is Shivam Shrivastava! 👋
+### Hi there, This is Shivam Shrivastava! 👋 <img src="https://img.icons8.com/ios-glyphs/60/000000/batman-new.png"/>
 
 <!--
 **starboy2102/starboy2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 I am a B.tech student. I am a guy who is fascinated toward programming especially towards AI and ML. I like to explore physics and mathematics.
 
-<img src="https://img.icons8.com/ios-glyphs/60/000000/batman-new.png"/>
 
 - 🌱 I’m currently learning Android Development on Flutter, Data Structure and Algorithm in C++.
 - 🤔 I’m looking for help with Android Projects on Flutter.
