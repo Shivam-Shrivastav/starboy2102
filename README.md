@@ -5,6 +5,8 @@
 
 I am a B.tech student. I am a guy who is fascinated toward programming especially towards AI and ML. I like to explore physics and mathematics.
 
+<a href="https://icons8.com/icon/102964/batman-logo">Batman Logo icon by Icons8</a>
+
 
 - 🌱 I’m currently learning Android Development on Flutter, Data Structure and Algorithm in C++.
 - 🤔 I’m looking for help with Android Projects on Flutter.
