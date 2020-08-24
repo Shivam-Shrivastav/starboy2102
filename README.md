@@ -5,7 +5,7 @@
 
 I am a B.tech student. I am a guy who is fascinated toward programming especially towards AI and ML. I like to explore physics and mathematics.
 
-<img src="https://img.icons8.com/ios-glyphs/30/000000/batman-new.png"/>
+                                                  <img src="https://img.icons8.com/ios-glyphs/30/000000/batman-new.png"/>
 
 - 🌱 I’m currently learning Android Development on Flutter, Data Structure and Algorithm in C++.
 - 🤔 I’m looking for help with Android Projects on Flutter.
